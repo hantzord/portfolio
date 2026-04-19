@@ -1,0 +1,24 @@
+<svg 
+  viewBox="0 0 100 100" 
+  fill="none" 
+  xmlns="http://www.w3.org/2000/svg"
+>
+  {/* Pillar 1 */}
+  <rect x="15" y="25" width="16" height="50" fill="#0055FF" />
+  {/* Pillar 2 */}
+  <rect x="37" y="25" width="12" height="28" fill="#0055FF" />
+  <rect x="37" y="58" width="12" height="17" fill="#0055FF" />
+  {/* Pillar 3 */}
+  <rect x="55" y="25" width="12" height="17" fill="#0055FF" />
+  <rect x="55" y="47" width="12" height="28" fill="#0055FF" />
+  {/* Pillar 4 */}
+  <rect x="73" y="25" width="16" height="50" fill="#0055FF" />
+
+  {/* Bridges */}
+  <rect x="31" y="44" width="6" height="12" fill="#0055FF" />
+  <rect x="67" y="44" width="6" height="12" fill="#0055FF" />
+  
+  {/* Diagonal middle */}
+  <path d="M49 46 L55 52 L55 58 L49 52 Z" fill="#0055FF" />
+  <path d="M43 40 L49 46 L49 52 L43 46 Z" fill="#0055FF" />
+</svg>
